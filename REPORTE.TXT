@@ -1,0 +1,14 @@
+                           CENTRO DE CAPACITACION 
+ FECHA: 13/05/2023         EMPLEADOS DE LA EMPRESA
+ -------------------------------------------------
+    NUMERO            NOMBRE               STATUS 
+ -------------------------------------------------
+                 100    FERNANDOTOLEDO ESPEJEL    
+                 200    JOSE MARIA MEDINA         
+                 300    ROBERTO PEREZ GARCIA      
+                 400    VENUSTIANO ESTRADA MENDEZ 
+                 500    VALENTIN JIMENEZ OJEDA    
+
+ TOTAL DE EMPLEADOS LEIDOS :       5              
+ TOTAL DE EMPLEADOS IMPRESOS:      5              
+ SUMA TOTAL DE SALARIOS     :          $0.00      
